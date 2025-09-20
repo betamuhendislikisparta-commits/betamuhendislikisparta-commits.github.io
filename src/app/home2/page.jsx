@@ -16,18 +16,18 @@ const page = () => {
             <HomeSlider2></HomeSlider2>
             <About2 
                 Img="/assets/img/about_img_2.png"
-                TitleUp="About us"
-                Title="Turning up the chill factor in your home or office"
-                Content="This involves setting up a new air conditioning system in your home or office. It's crucial to ensure that the unit is properly sized for the space and installed correctly for optimal efficiency"
+                TitleUp="Hakkımızda"
+                Title="Evinizde ve iş yerinizde profesyonel tesisat çözümleri"
+                Content="Beta Mühendislik olarak ısı pompası, doğalgaz kombi, kat kaloriferi, petek ve tesisat sistemlerinde uzman çözümler sunuyoruz. Ayrıca yangın tesisatı projelendirme ve uygulama hizmetleriyle güvenliğinizi ön planda tutarız."
                 FeatureList={[
-                    "Ventilation System Maintenance",
-                    "Indoor Air Quality Testing",
-                    "Cool Craft Custom Solutions"
+                    "Isı Pompası Sistemleri",
+                    "Doğalgaz Kombi Montajı",
+                    "Petek ve Tesisat Sistemleri"
                 ]}
-                Experience="25+"
+                Experience="15+"
                 BioImg="/assets/img/avatar_1.png"                
-                BioName="Roberto Ramon"                
-                BioContent="Call any time for services"                
+                BioName="Beta Mühendislik"                
+                BioContent="Hizmetler için her zaman arayın"                
             ></About2>
             <Services2></Services2>
             <Choose2></Choose2>

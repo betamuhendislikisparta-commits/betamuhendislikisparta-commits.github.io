@@ -1,92 +1,92 @@
 [
   {
     "icon": "/assets/img/icons/service_icon_7.svg",  
-    "SubTitle": "Air Filtration Solutions",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Isı Pompası Sistemleri",
+    "title": "Güvenilir Enerji Verimli Çözümler",
+    "desc": "Enerji verimli ısı pompası sistemleri ile hem ısıtma hem de soğutma ihtiyaçlarınızı karşılıyoruz. Çevre dostu teknoloji ile düşük işletme maliyeti.", 
     "img": "/assets/img/service_details_1.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Hava Kaynaklı Isı Pompaları",
+        "Su Kaynaklı Isı Pompaları",
+        "Toprak Kaynaklı Sistemler",
+        "Profesyonel Montaj",
+        "Periyodik Bakım",
+        "7/24 Acil Servis"
     ]
   },
   {
     "icon": "/assets/img/icons/service_icon_8.svg",  
-    "SubTitle": "Indoor Air Quality Testing",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Doğalgaz Kombi Montajı",
+    "title": "Güvenilir Kombi Kurulum Hizmeti",
+    "desc": "Yüksek verimli doğalgaz kombi sistemlerinin profesyonel montajı. Güvenlik standartlarına uygun kurulum ve garanti.", 
     "img": "/assets/img/service_details_2.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Kombi Seçimi Danışmanlığı",
+        "Profesyonel Montaj",
+        "Güvenlik Kontrolleri",
+        "Garanti Kapsamında Bakım",
+        "Sistem Optimizasyonu",
+        "Teknik Destek"
     ]     
   },
   {
     "icon": "/assets/img/icons/service_icon_9.svg",  
-    "SubTitle": "Chill Guard Protection",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Petek ve Tesisat Sistemleri",
+    "title": "Kapsamlı Tesisat Çözümleri",
+    "desc": "Petek, boru tesisatı ve kat kaloriferi sistemlerinin kurulumu, bakımı ve onarımı. Hidrofor ve pompa sistemleri dahil.", 
     "img": "/assets/img/service_details_4.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Petek Kurulumu",
+        "Boru Tesisatı",
+        "Kat Kaloriferi Sistemleri",
+        "Hidrofor Montajı",
+        "Pompa Sistemleri",
+        "Tesisat Tamiri"
     ] 
   },
   {
     "icon": "/assets/img/icons/service_icon_10.svg",  
-    "SubTitle": "Air Filtration Solutions",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Yangın Tesisatı",
+    "title": "Yangın Güvenlik Sistemleri",
+    "desc": "Yangın tesisatı projelendirme, uygulama ve bakım hizmetleri. İtfaiye onaylı sistemler ile güvenliğinizi sağlıyoruz.", 
     "img": "/assets/img/service_details_1.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Yangın Tesisatı Projesi",
+        "Sprinkler Sistemi",
+        "Yangın Söndürme Sistemleri",
+        "İtfaiye Onayları",
+        "Periyodik Kontroller",
+        "Acil Müdahale"
     ]      
   },
   {
     "icon": "/assets/img/icons/service_icon_8.svg",  
-    "SubTitle": "Indoor Air Quality Testing",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Bakım ve Onarım",
+    "title": "Düzenli Bakım Hizmetleri",
+    "desc": "Tüm tesisat sistemlerinizin düzenli bakımı ve arıza durumunda hızlı onarım hizmetleri. Uzun ömürlü çalışma garantisi.", 
     "img": "/assets/img/service_details_2.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Periyodik Bakım",
+        "Arıza Tespiti",
+        "Hızlı Onarım",
+        "Parça Değişimi",
+        "Sistem Optimizasyonu",
+        "24 Saat Servis"
     ]     
   },
   {
     "icon": "/assets/img/icons/service_icon_9.svg",  
-    "SubTitle": "Chill Guard Protection",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "SubTitle": "Proje Danışmanlığı",
+    "title": "Uzman Mühendislik Danışmanlığı",
+    "desc": "Tesisat projelerinde mühendislik danışmanlığı, çizim ve hesaplama hizmetleri. En uygun sistem tasarımı.", 
     "img": "/assets/img/service_details_4.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Proje Tasarımı",
+        "Teknik Çizimler",
+        "Hesaplama Raporları",
+        "Sistem Seçimi",
+        "Maliyet Analizi",
+        "Uygulama Takibi"
     ]  
   }   
 ]
