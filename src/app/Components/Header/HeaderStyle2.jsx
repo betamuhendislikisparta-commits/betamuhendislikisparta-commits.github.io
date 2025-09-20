@@ -40,7 +40,7 @@ export default function HeaderStyle2({ variant }) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
               <Link className="cs_site_branding" href="/">
-                <Image src="/assets/img/logo.svg" alt="Logo" width={212} height={54}   />
+                <Image src="/assets/img/logo.png" alt="Beta Mühendislik Logo" width={212} height={54}   />
               </Link>
               <div className="cs_nav cs_primary_font fw-medium">
                 <span
@@ -80,7 +80,7 @@ export default function HeaderStyle2({ variant }) {
                 </a>
               </div>
               <Link href="/contact" className="cs_btn cs_style_1 cs_color_1">
-                <span>Request a quote</span>              
+                <span>Teklif İsteyin</span>              
               </Link>
             </div>
           </div>

@@ -1,44 +1,44 @@
 [
   {
     "img": "/assets/img/avatar_2.png",  
-    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
-    "title": "Robert Fox",
-    "subTitle": "Project Manager",
-    "review": "Great Services"
+    "desc": "Beta Mühendislik'in ısı pompası kurulum hizmeti gerçekten mükemmeldi. Hem profesyonel hem de hızlı bir şekilde işlerini tamamladılar.",  
+    "title": "Ahmet Yılmaz",
+    "subTitle": "Ev Sahibi",
+    "review": "Mükemmel Hizmet"
   },
   {
     "img": "/assets/img/avatar_3.png",  
-    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
-    "title": "Guy Hawkins",
-    "subTitle": "Product support",    
-    "review": "Great Services"
+    "desc": "Doğalgaz kombi montajında çok titiz çalıştılar. Güvenlik konusunda hiçbir eksik bırakmadılar. Kesinlikle tavsiye ederim.",  
+    "title": "Mehmet Kaya",
+    "subTitle": "İşletme Sahibi",    
+    "review": "Çok Güvenilir"
   },
   {
     "img": "/assets/img/avatar_2.png",  
-    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
-    "title": "Jacob Jones",
-    "subTitle": "Customer success",  
-    "review": "Great Services"
+    "desc": "Petek sistemimizde yaşadığımız sorunları çok kısa sürede çözdüler. Fiyatları da oldukça makul. Teşekkürler Beta Mühendislik.",  
+    "title": "Fatma Özkan",
+    "subTitle": "Apartman Yöneticisi",  
+    "review": "Hızlı Çözüm"
   },
   {
     "img": "/assets/img/avatar_1.png",  
-    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
-    "title": "Robert Fox",
-    "subTitle": "Project Manager",
-    "review": "Great Services"
+    "desc": "Yangın tesisatı projemizi baştan sona titizlikle yürüttüler. İtfaiye onaylarını sorunsuz aldık. Profesyonel bir ekip.",  
+    "title": "Ali Demir",
+    "subTitle": "Mimar",
+    "review": "Profesyonel Ekip"
   },
   {
     "img": "/assets/img/avatar_3.png",  
-    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
-    "title": "Guy Hawkins",
-    "subTitle": "Product support",    
-    "review": "Great Services"
+    "desc": "Isı pompası sistemimiz 2 yıldır sorunsuz çalışıyor. Enerji tasarrufu gerçekten çok fazla. Beta Mühendislik'e teşekkürler.",  
+    "title": "Zeynep Arslan",
+    "subTitle": "Mühendis",    
+    "review": "Enerji Tasarrufu"
   },
   {
     "img": "/assets/img/avatar_2.png",  
-    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
-    "title": "Jacob Jones",
-    "subTitle": "Customer success",  
-    "review": "Great Services"
+    "desc": "Acil tesisat sorunumuzda gece saatlerinde bile geldiler. Bu kadar hızlı servis beklemiyordum. Gerçekten müşteri odaklılar.",  
+    "title": "Hasan Çelik",
+    "subTitle": "Restoran Sahibi",  
+    "review": "7/24 Hizmet"
   } 
 ]

@@ -59,7 +59,7 @@ const Footer = () => {
                 </div>
                 <div className="cs_footer_logo wow zoomIn" data-wow-duration="0.9s" data-wow-delay="0.25s">
                   <Link href="/">
-                    <Image src="/assets/img/footer_logo.svg" alt="Logo" width={139} height={111}   />
+                    <Image src="/assets/img/logo.png" alt="Beta Mühendislik Logo" width={139} height={111}   />
                   </Link> 
                   </div> 
                 <div className="cs_footer_contact_card">
