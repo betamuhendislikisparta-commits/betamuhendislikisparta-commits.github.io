@@ -10,27 +10,27 @@ const ProjectDetails = () => {
                     <div className="row cs_mb_45 cs_reverse_col cs_gap_y_50">
                         <div className="col-xl-9 col-lg-8">
                         <div className="cs_pr_30">
-                            <h2 className="cs_fs_48 cs_semibold cs_mb_22">Professional conditioning Replacement</h2>
-                            <p>High-efficiency units can significantly reduce energy consumption, lower utility bills, provide better cooling, and have a smaller environmental footprint Professional consultation, <br/><br/>
-                            Comprehensive repair services for all types of air conditioning units. From minor fixes to major overhauls, our services technicians are equipped to handle any issue Diagnostic testing, component repair or replacement, system you all a rebalancing, and air for  performance <br/><br/>
-                            It is recommended to service your air conditioner at least once a year to ensure it runs efficiently and effectively and replacing filters, keeping the outdoor unit clean, and sealing any leaks in your home can improve efficiency A for an  professional team your assessment is recommended</p>
+                            <h2 className="cs_fs_48 cs_semibold cs_mb_22">Profesyonel Sistem Yenileme Projesi</h2>
+                            <p>Yüksek verimli üniteler enerji tüketimini önemli ölçüde azaltabilir, elektrik faturalarını düşürebilir, daha iyi ısıtma-soğutma sağlayabilir ve çevresel ayak izini küçültebilir. Profesyonel danışmanlık hizmeti, <br/><br/>
+                            Her türlü ısıtma ve soğutma ünitesi için kapsamlı onarım hizmetleri. Küçük düzeltmelerden büyük revizyonlara kadar, servis teknisyenlerimiz her türlü sorunu çözebilecek donanıma sahiptir. Tanı testleri, bileşen onarımı veya değişimi, sistem yeniden dengeleme ve performans optimizasyonu <br/><br/>
+                            Sisteminizin verimli ve etkili çalışmasını sağlamak için yılda en az bir kez servis yaptırmanız önerilir. Filtrelerin değiştirilmesi, dış ünitenin temiz tutulması ve evinizdeki sızıntıların kapatılması verimliliği artırabilir. Profesyonel ekip değerlendirmesi önerilir</p>
                         </div>
                         </div>
                         <div className="col-xl-3 col-lg-4">
                         <div className="cs_project_info_card">
-                            <h2 className="cs_sidebar_widget_heading cs_fs_24 cs_semibold">Categories</h2>
+                            <h2 className="cs_sidebar_widget_heading cs_fs_24 cs_semibold">Proje Bilgileri</h2>
                             <ul className="cs_mp_0">
                             <li>
-                                <p className="cs_fs_14 mb-0">Clients:</p>
+                                <p className="cs_fs_14 mb-0">Müşteriler:</p>
                                 <h3 className="mb-0 cs_fs_18 cs_medium">Marvin McKinney</h3>
                             </li>
                             <li>
-                                <p className="cs_fs_14 mb-0">Category:</p>
-                                <h3 className="mb-0 cs_fs_18 cs_medium">Conditioning Replacement</h3>
+                                <p className="cs_fs_14 mb-0">Kategori:</p>
+                                <h3 className="mb-0 cs_fs_18 cs_medium">Sistem Yenileme</h3>
                             </li>
                             <li>
-                                <p className="cs_fs_14 mb-0">Date:</p>
-                                <h3 className="mb-0 cs_fs_18 cs_medium">12 May, 2024</h3>
+                                <p className="cs_fs_14 mb-0">Tarih:</p>
+                                <h3 className="mb-0 cs_fs_18 cs_medium">12 Mayıs, 2024</h3>
                             </li>
                             </ul>
                         </div>
@@ -45,11 +45,11 @@ const ProjectDetails = () => {
                         <Image src="/assets/img/project_details_2.jpg" alt="img" width={636} height={481}   />
                         </div>
                         </div>
-                        <h3>Project Challenges</h3>
-                        <p>Our expert technicians will assess your space and recommend the best air conditioning unit for your needs. We handle the entire installation process, ensuring your properplacement, wiring, and setup for optimal performance replacing</p>
+                        <h3>Proje Zorlukları</h3>
+                        <p>Uzman teknisyenlerimiz alanınızı değerlendirecek ve ihtiyaçlarınız için en uygun ısıtma-soğutma ünitesini önerecektir. Optimal performans için doğru yerleştirme, kablolama ve kurulum sağlayarak tüm kurulum sürecini yönetiyoruz.</p>
                         <ol>
-                        <li>Regular maintenance is essential for the longevity and efficiency of your air conditioner. Our maintenance service includes thorough inspection, cleaning of for all your  lubrication, filter replacement, and performance testing to keep your system </li>
-                        <li>Comprehensive repair services for malfunctioning air conditioning units, addressing issues such as refrigerant leaks, faulty compressors, and electrical problems an your in    Professional air  installation of new air conditioning systems </li>
+                        <li>Düzenli bakım, klima sisteminizin uzun ömürlü ve verimli olması için gereklidir. Bakım hizmetimiz kapsamlı denetim, temizlik, yağlama, filtre değişimi ve sisteminizi mükemmel durumda tutmak için performans testini içerir.</li>
+                        <li>Arızalı ısıtma-soğutma ünitelerinin kapsamlı onarım hizmetleri, soğutucu akışkan sızıntıları, arızalı kompresörler ve elektriksel sorunlar gibi sorunları ele alır. Yeni ısıtma-soğutma sistemlerinin profesyonel kurulumu.</li>
                         </ol>
                         <div className="row">
                         <div className="col-md-4">
@@ -62,10 +62,10 @@ const ProjectDetails = () => {
                             <Image src="/assets/img/project_details_5.jpg" alt="img" width={416} height={504}   />
                         </div>
                         </div>
-                        <h3>Final Result</h3>
+                        <h3>Nihai Sonuç</h3>
                         <p>
-                        Full system setup, ductwork connection thermostat integration and a thorough system test to ensure everything is working perfectly and ensure it operates at peak efficiency during the hottest months Regular maintenance <br/>
-                        Filter replacement, coil cleaning, lubrication of moving parts, system calibration, and a complete system inspection A thorough tune-up service designed to enhance the performance of your air conditioner and ensure it operates at peak efficiency during the hottest months
+                        Tam sistem kurulumu, kanal bağlantısı, termostat entegrasyonu ve her şeyin mükemmel çalıştığından emin olmak için kapsamlı sistem testi ve en sıcak aylarda maksimum verimle çalışmasını sağlama. Düzenli bakım <br/>
+                        Filtre değişimi, serpentin temizliği, hareketli parçaların yağlanması, sistem kalibrasyonu ve kapsamlı sistem denetimi. Klima sisteminizin performansını artırmak ve en sıcak aylarda maksimum verimle çalışmasını sağlamak için tasarlanmış kapsamlı ayar hizmeti.
                         </p>
                     </div>
                     </div>

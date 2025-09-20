@@ -6,9 +6,9 @@ const Choose2 = () => {
 
     const ProjectImage = {
         img:'/assets/img/why_chose_us_img_2.png',
-        Projectnumber:'80%',
-        ProjectContent:'Success Project',
-        Content:'Air conditioning system is best for your home Our FrostFree Consultaservice provides expert guidance'
+        Projectnumber:'%95',
+        ProjectContent:'Başarılı Proje',
+        Content:'Eviniz için en uygun ısıtma ve soğutma sistemi seçiminde uzman danışmanlık hizmetimizle doğru tercihi yapın'
     }
 
     return (
@@ -28,8 +28,8 @@ const Choose2 = () => {
                 <div className="col-xl-5">
                     <div className="cs_section_heading cs_style_1 cs_type_1">
                         <SectionTitle
-                            Title="Your Trusted Air Comfort Experts"
-                            SubTitle="Why Choose Us"                       
+                            Title="Güvenilir Tesisat Uzmanlarınız"
+                            SubTitle="Neden Bizi Seçin"                       
                         >
                         </SectionTitle>
                     </div>

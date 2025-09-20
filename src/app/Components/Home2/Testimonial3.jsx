@@ -47,8 +47,8 @@ const Testimonial3 = () => {
         <div className="container">
           <div className="cs_section_heading cs_style_1">
            <SectionTitle
-                    Title="What Clients Say <br/>About Us"
-                    SubTitle="Testimonials"                
+                    Title="Müşterilerimiz <br/>Hakkımızda Ne Diyor"
+                    SubTitle="Referanslar"                
                 >
             </SectionTitle>
           </div>

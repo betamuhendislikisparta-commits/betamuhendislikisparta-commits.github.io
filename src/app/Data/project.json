@@ -1,42 +1,42 @@
 [
   {
     "img": "/assets/img/project_1.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Isı Pompası Kurulumu",
+    "desc": "Enerji verimli ısı pompası sistemlerinin profesyonel montajı"
   },
   {
     "img": "/assets/img/project_2.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Doğalgaz Kombi Montajı",
+    "desc": "Güvenilir doğalgaz kombi sistemlerinin kurulum hizmeti"
   },
   {
     "img": "/assets/img/project_3.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Petek Tesisat Sistemi",
+    "desc": "Kapsamlı petek ve tesisat sistemleri montaj hizmeti"
   },
   {
     "img": "/assets/img/project_4.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Yangın Tesisatı Projesi",
+    "desc": "İtfaiye onaylı yangın tesisatı projelendirme ve uygulama"
   },
   {
     "img": "/assets/img/project_5.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Kat Kaloriferi Sistemi",
+    "desc": "Merkezi ısıtma sistemleri kurulum ve bakım hizmeti"
   } ,
   {
     "img": "/assets/img/project_6.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Hidrofor Sistemi",
+    "desc": "Su basınç sistemleri kurulum ve bakım hizmetleri"
   },
   {
     "img": "/assets/img/project_7.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Tesisat Bakım Onarım",
+    "desc": "Düzenli bakım ve arıza onarım hizmetleri"
   },
   {
     "img": "/assets/img/project_8.jpg",  
-    "title": "Air Duct Cleaning",
-    "desc": "Thorough cleaning of air ducts to remove dust, debris"
+    "title": "Sistem Modernizasyonu",
+    "desc": "Mevcut sistemlerin modern teknoloji ile yenilenmesi"
   }  
 ]

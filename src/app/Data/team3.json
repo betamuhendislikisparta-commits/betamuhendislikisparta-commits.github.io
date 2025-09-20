@@ -1,42 +1,42 @@
 [
   {
     "img": "/assets/img/team_member_5.jpg",  
-    "title": "Kathryn Murphy",
-    "subTitle": "Managing Partner"
+    "title": "Murat Özkan",
+    "subTitle": "Kurucu Ortak"
   },
   {
     "img": "/assets/img/team_member_6.jpg",  
-    "title": "Marvin McKinney",
-    "subTitle": "President Of Sales"
+    "title": "Ahmet Yılmaz",
+    "subTitle": "Satış Müdürü"
   },
   {
     "img": "/assets/img/team_member_7.jpg",  
-    "title": "Darlene Robertson",
-    "subTitle": "Project Manager"
+    "title": "Fatma Demir",
+    "subTitle": "Proje Yöneticisi"
   },
   {
     "img": "/assets/img/team_member_8.jpg",  
-    "title": "Cameron William",
-    "subTitle": "Managing Partner"
+    "title": "Mehmet Kaya",
+    "subTitle": "Kurucu Ortak"
   },
   {
     "img": "/assets/img/team_member_5.jpg",  
-    "title": "Leslie Alexander",
-    "subTitle": "Managing Partner"
+    "title": "Zeynep Arslan",
+    "subTitle": "Operasyon Müdürü"
   }, 
   {
     "img": "/assets/img/team_member_6.jpg",
-    "title": "Brooklyn Simmons",
-    "subTitle": "Managing Partner"
+    "title": "Ali Çelik",
+    "subTitle": "Teknisyen"
   }, 
   {
     "img": "/assets/img/team_member_7.jpg",  
-    "title": "Savannah Nguyen",
-    "subTitle": "MProject Manager"
+    "title": "Ayşe Şahin",
+    "subTitle": "Proje Yöneticisi"
   }, 
   {
     "img": "/assets/img/team_member_6.jpg", 
-    "title": "Courtney Henry",
-    "subTitle": "Managing Partner"
+    "title": "Hasan Yıldız",
+    "subTitle": "Saha Müdürü"
   }   
 ]

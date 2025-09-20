@@ -54,8 +54,8 @@ const Team = () => {
             <div className="cs_slider_heading_1">
               <div className="cs_section_heading cs_style_1">
                 <SectionTitle
-                    Title="Our Professional Expert Team"
-                    SubTitle="Our team menber"                
+                    Title="Profesyonel Uzman Ekibimiz"
+                    SubTitle="Ekip Üyelerimiz"                
                 >
                 </SectionTitle>
               </div>
