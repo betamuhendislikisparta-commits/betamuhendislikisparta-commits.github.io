@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/img/avatar_1.png",  
+    "desc": "Size bildirmek isterim ki ekibiniz şimdiye kadar çalışma zevkini tatmış olduğum en iyi şirket! Son derece profesyonellerdi, çok kibarlardı ve işleri olağanüstüydü. Bu işi yapış şekilleri ve hızları dikkat çekiciydi.",  
+    "title": "Mehmet K.",
+    "subTitle": "Isparta"
+  },
+  {
+    "img": "/assets/img/avatar_2.png",  
+    "desc": "Yeni bir kompresör ve fırın kurdular. Kurulum yapanlar dakikti, kibardı ve bilgiliydi. Baş temsilci bilgiliydi, yardımseverdi ve kurulumun tüm yönlerinin anlaşıldığından emin oldu.",  
+    "title": "Ali S.",
+    "subTitle": "Antalya"
+  },
+  {
+    "img": "/assets/img/avatar_3.png",  
+    "desc": "Çok profesyonel ve yetkin. Servis elemanı işi hızla gerçekleştirdi ve bulguları sonrasında paylaştı. Kesinlikle tekrar kullanırım. Bu şirketi ve ekibi şiddetle tavsiye ederim.",  
+    "title": "Ayşe T.",
+    "subTitle": "Burdur"
+  }
+]

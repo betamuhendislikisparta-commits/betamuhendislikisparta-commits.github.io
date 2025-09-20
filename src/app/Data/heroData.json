@@ -1,0 +1,26 @@
+[
+  {
+    "bgImg": "/assets/img/hero_bg_1.jpg",
+    "subTitle": "Isı Pompası ve Tesisat Sistemleri",
+    "title": "Enerji verimli ısıtma ve soğutma çözümleri ile ailenizin konforunu sağlıyoruz",
+    "desc": "Profesyonel montaj ve bakım hizmetleri ile evinizin ısıtma ihtiyaçlarına çözüm sunuyoruz",
+    "img": "/assets/img/hero_img_1.png",    
+    "link": "/service"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_2.jpg",
+    "subTitle": "Doğalgaz Kombi ve Kat Kaloriferi",
+    "title": "Profesyonel montaj ve bakım hizmetleri ile evinizin ısıtma ihtiyaçlarına çözüm sunuyoruz",
+    "desc": "Güvenilir ve işimiz güven vericidir. Her zaman güvenebileceğiniz endişesiz hizmet sunuyoruz.",
+    "img": "/assets/img/hero_img_2.png",    
+    "link": "/service"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_3.jpg",
+    "subTitle": "Yangın Tesisatı ve Petek Sistemleri",
+    "title": "Güvenliğinizi ön planda tutarak yangın tesisatı projelendirme ve uygulama hizmetleri sunuyoruz",
+    "desc": "Kaliteli petek sistemleri montajı ve onarım hizmetleri ile konforunuzu sağlıyoruz",
+    "img": "/assets/img/hero_img_3.png",    
+    "link": "/service"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "title": "Isı Pompası Sistemleri",
+    "desc": "Enerji verimli ısı pompası sistemlerinin montajı, bakımı ve onarımı",
+    "img": "/assets/img/icons/service_icon_1.svg",    
+    "link": "/service/isi-pompasi"
+  },
+  {
+    "id": "02",
+    "title": "Doğalgaz Kombi",
+    "desc": "Profesyonel doğalgaz kombi montajı, bakımı ve onarım hizmetleri",
+    "img": "/assets/img/icons//service_icon_2.svg",    
+    "link": "/service/dogalgaz-kombi"
+  },
+  {
+    "id": "03",
+    "title": "Petek ve Tesisat",
+    "desc": "Petek sistemleri ve tesisat montajı, bakımı ve onarımı",
+    "img": "/assets/img/icons//service_icon_3.svg",    
+    "link": "/service/petek-tesisat"
+  },
+  {
+    "id": "04",
+    "title": "Yangın Tesisatı",
+    "desc": "Yangın tesisatı projelendirme ve uygulama hizmetleri",
+    "img": "/assets/img/icons//service_icon_4.svg",    
+    "link": "/service/yangin-tesisati"
+  }
+]
